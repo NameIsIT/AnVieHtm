@@ -1,0 +1,39 @@
+* {
+	padding:0;
+	margin:0;
+}
+
+body{
+	background-color:#3F888F;
+}
+
+table {
+	color:darkblue;
+	border:1px solid sliver;
+	text-align:center;
+	margin-left:calc(50% - 1px - 25px - 75px);
+	margin-top:5%;
+}
+header{
+	width:100%;
+	height:calc(85px - 25px);
+	background-color:#164376;
+	text-align:left;
+	padding-left:23px;
+	padding-top:25px;
+	border-bottom:12px solid #1B5583;
+}
+
+ul{
+	list-style-type:none;
+	
+}
+
+li{
+	padding:12px;
+	display:inline;
+	margin-left:12px;
+	background-color:#1D334A;
+	text-align:center;
+	color:#256D7B;
+}
